@@ -1,7 +1,12 @@
 <snippet>
 	<content><![CDATA[
-it('${1:description}', function() {
+it('${1:description}', function () {
+	// align
 	${2}
+
+	// act
+
+	// assert
 });
 ]]></content>
 	<tabTrigger>its</tabTrigger>

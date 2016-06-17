@@ -48,7 +48,7 @@ debugger;
 ### [fe] forEach
 
 ```javascript
-${1:myArray}.forEach(function (${2:item}) {
+${1:myArray}.forEach(function(${2:item}) {
 	${3}
 });
 ```
@@ -92,7 +92,7 @@ function(${1:arguments}) {
 ### [ofn] function as a property of an object
 
 ```javascript
-${1:functionName}: function (${2:arguments}) {
+${1:functionName}: function(${2:arguments}) {
 	${3}
 }
 ```
@@ -139,7 +139,7 @@ require('${1:module}');
 ### [desc] describe
 
 ```javascript
-describe('${1:description}', function () {
+describe('${1:description}', function() {
 	${2}
 });
 ```
@@ -147,7 +147,7 @@ describe('${1:description}', function () {
 ### [its] it synchronous
 
 ```javascript
-it('${1:description}', function () {
+it('${1:description}', function() {
 	${2}
 });
 ```

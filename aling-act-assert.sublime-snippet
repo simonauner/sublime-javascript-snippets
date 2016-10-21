@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+// align
+${1}
+// act
+
+// assert
+]]></content>
+	<tabTrigger>aaa</tabTrigger>
+	<scope>source.js</scope>
+	<description>Align, act, assert</description>
+</snippet>

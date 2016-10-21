@@ -184,6 +184,16 @@ confirm('${1:msg}');
 prompt('${1:msg}');
 ```
 
+### [aaa] align act assert
+
+```javascript
+// align
+${1}
+// act
+
+// assert
+```
+
 ## Contributing
 
 1. Fork it!
